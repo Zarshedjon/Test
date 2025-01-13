@@ -54,7 +54,7 @@ body{
 .bottom-right{
     bottom: 0;
     right: 0;
-    background-color:rgb(210, 30, 210) ;
+    background-color:rgb(0,0,0) ;
 
 }
 .center{
@@ -64,7 +64,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     top: 175px;
-    background-color: rgb(255, 213, 0);
+    background-color: rgb(0,0,0);
 }
 .bottom{
     position: sticky;
