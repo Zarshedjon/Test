@@ -3,6 +3,7 @@ body{
     margin: 0;
     height: 2000px;
     width: 100%;
+    background-color: rgb(45, 235, 20);
 }
 .top{
     width: 50%;
